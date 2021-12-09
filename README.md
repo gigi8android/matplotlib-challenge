@@ -1,6 +1,6 @@
 # matplotlib-challenge
 
-The submission is included: jupyter notebook, subfolder called "data" with input data files and readme (this file).
+The submission is included: jupyter notebook (scap_pymaceutical_final.ipynb), subfolder called "data" with input data files and readme (this file).
 
 Observations based on the output & graphs:
 
